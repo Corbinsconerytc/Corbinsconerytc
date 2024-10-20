@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Spruce
+- 👀 I’m interested in Coding and Video editing 
+- 🌱 I’m currently learning C# 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a reading speed of around 1000 wpm :)
